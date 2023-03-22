@@ -1,1 +1,2 @@
-점프 투 파이썬
+- 위키독스 ( https://wikidocs.net/)
+- 데이터 사이언스 스쿨 ( https://datascienceschool.net/intro.html )
